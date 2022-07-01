@@ -1,27 +1,26 @@
 {
 	"info": {
-		"_postman_id": "2a9e6fl8-0981-4844-9178-264e9204fbc4",
-		"name": "Name: Collection from local feature branch",
+		"_postman_id": "2a9e6fl8-0981-4844-9h88-264e9204fbc4",
+		"name": "Second Collection from local feature branch",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "539613-2a9e6fl8-0981-4844-9178-264e9204fbc4"
+		"_uid": "539613-2a9e6fl8-0981-4844-9h88-264e9204fbc4"
 	},
 	"item": [],
 	"event": [
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "d85bad35-d4d9-454e-ab2a-72535ac5907c",
+				"id": "95cb338b-dd76-464e-9704-884643f4ee59",
 				"type": "text/javascript",
 				"exec": [
-					"// Script",
-					"// Script"
+					""
 				]
 			}
 		},
 		{
 			"listen": "test",
 			"script": {
-				"id": "05a14b89-64d4-4a5a-b420-638e434bd726",
+				"id": "225d61c0-b9a8-4c27-a58f-b45f2ac1001e",
 				"type": "text/javascript",
 				"exec": [
 					"// Test"
